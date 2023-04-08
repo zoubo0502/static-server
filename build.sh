@@ -1,3 +1,3 @@
-git add Dockerfile
+git add .
 git commit -m 'update'
 git push origin main
